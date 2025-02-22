@@ -1,0 +1,10 @@
+[package]
+name = "multiprocess-rpc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+capnp-rpc = "0.20.3"
+
+[build-dependencies]
+capnp = "0.20.3"
